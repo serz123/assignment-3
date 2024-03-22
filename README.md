@@ -1,4 +1,6 @@
-# Assigment 3
+# THIS WAS A SCHOOL ASSIGNMENT
+
+## Assigment 3
 This is the generated project for assignment 3.
 
 ## Project structure
